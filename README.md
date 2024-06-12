@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My Project
+
+This is a link to my project:
+
+[Visit the application](https://nusarat-haveliwala.onrender.com/all)
