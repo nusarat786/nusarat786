@@ -7,7 +7,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="nusarat-haveliwala-48602425a" height="30" width="40" />
 </a>
 &nbsp;
-<a href="/https://nusarat-haveliwala.onrender.com/" target="_blank" ><img align="center" ttitle="Profile Page" src="https://i.ibb.co/gPvF97W/online-resume.png" alt="https://nusarat-haveliwala.onrender.com/" height="40" width="40" /> </a>
+<a href="https://nusarat-haveliwala.onrender.com/" target="blank" ><img align="center" ttitle="Profile Page" src="https://i.ibb.co/gPvF97W/online-resume.png" alt="https://nusarat-haveliwala.onrender.com/" height="40" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
